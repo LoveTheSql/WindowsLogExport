@@ -1,0 +1,9 @@
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\bin\Debug\AuditDW.dacpac
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\bin\Debug\AuditDW.dll
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\bin\Debug\AuditDW.pdb
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\obj\Debug\AuditDW.dll
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\obj\Debug\AuditDW.pdb
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\obj\Debug\Model.xml
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\obj\Debug\refactor.xml
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\obj\Debug\postdeploy.sql
+M:\LoveTheSql\Repository\WindowsLogExport\AuditDW\obj\Debug\predeploy.sql

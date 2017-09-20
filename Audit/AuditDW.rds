@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AuditDW">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SSRS2016;Initial Catalog=AuditDW</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>fe4489ed-354a-4c80-98b3-823d1471f86c</DataSourceID>
+</RptDataSource>

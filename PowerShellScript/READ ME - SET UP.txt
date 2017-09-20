@@ -1,0 +1,27 @@
+READ ME
+
+WINDOWS LOG EXPORT SOLUTION
+By David Speight
+September 2017
+
+This uses SQL Server 2016, SSIS 2016, SSRS 2016 Enterprise.
+This has been tested only with Windows Server 2012R2 and 2016.
+
+
+To use out of the box, set up the directory as such:
+
+D:\PSscripts\WindowsLogExport\Archive\
+D:\PSscripts\WindowsLogExport\Export\
+D:\PSscripts\WindowsLogExport\JobLog\
+
+Copy Files into D:\PSscripts\WindowsLogExport\JobLog\
+-- LogServer.txt
+-- windows-log-export.log
+-- WindowsLogExportToCsv.ps1
+-- RemoveWinLogsOlderThan30days.ps1
+
+To Change Path for your instance you will need to edit:
+
+-- Scheduled Jobs XML files in the PowerShellScript Project
+-- Project Params in the WindowsLogExport SSIS Project
+-- Configuration Settings once project is deployed

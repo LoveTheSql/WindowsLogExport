@@ -1,0 +1,9 @@
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\bin\Debug\Maintenance.dacpac
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\bin\Debug\Maintenance.dll
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\bin\Debug\Maintenance.pdb
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\obj\Debug\Maintenance.dll
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\obj\Debug\Maintenance.pdb
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\obj\Debug\Model.xml
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\obj\Debug\refactor.xml
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\obj\Debug\postdeploy.sql
+M:\LoveTheSql\Repository\WindowsLogExport\Maintenance\obj\Debug\predeploy.sql
